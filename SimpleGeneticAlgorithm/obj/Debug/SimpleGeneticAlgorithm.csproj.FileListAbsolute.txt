@@ -1,0 +1,7 @@
+c:\users\pc-003\documents\visual studio 2015\Projects\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\pc-003\documents\visual studio 2015\Projects\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\SimpleGeneticAlgorithm.exe.config
+c:\users\pc-003\documents\visual studio 2015\Projects\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\SimpleGeneticAlgorithm.exe
+c:\users\pc-003\documents\visual studio 2015\Projects\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\SimpleGeneticAlgorithm.pdb
+c:\users\pc-003\documents\visual studio 2015\Projects\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\GAF.dll
+c:\users\pc-003\documents\visual studio 2015\Projects\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.exe
+c:\users\pc-003\documents\visual studio 2015\Projects\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.pdb
